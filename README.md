@@ -2,55 +2,50 @@
 
  This project performs an in-depth Exploratory Data Analysis (EDA) on a global dataset of unicorn startups (companies valued at over $1 billion).
 
-The goal is to identify startup trends, valuation patterns, top industries, regional distribution, and insights that explain how unicorns evolve across the world.
+#### The goal is to identify startup trends, valuation patterns, top industries, regional distribution, and insights that explain how unicorns evolve across the world.
 
 All visualizations, insights, and detailed explanation are included in the project PPT. 
 
-Unicorn Data Analysis PPT - Pha…
 
 ## 📊 Dataset Overview
 
-According to the dataset summary in the PPT 
-
-Unicorn Data Analysis PPT - Pha…
-
-:
+Unicorn Data Analysis PPT 
 
 1070+ rows, 10 columns
 
-Key attributes include:
+#### Key attributes include:
 
-Company Name
+ - Company Name
 
-Industry
+ - Industry
 
-Country / Region
+ - Country / Region
 
-City
+ - City
 
-Date Joined
+ - Date Joined
 
-Year Founded
+ - Year Founded
 
-Valuation (in USD billions)
+ - Valuation (in USD billions)
 
-Investors
+ - Investors
 
-Employees
+ - Employees
 
 #### Objective
 
-Analyze unicorn distribution across industries and countries
+- Analyze unicorn distribution across industries and countries
 
-Study valuations, time-to-unicorn, investor presence
+- Study valuations, time-to-unicorn, investor presence
 
-Understand global startup growth patterns
+- Understand global startup growth patterns
 
-Identify emerging sectors and regions
+- Identify emerging sectors and regions
 
 ##  Data Cleaning & Preprocessing
 
-###🔸 Handling Missing Values  
+### 🔸 Handling Missing Values  
 
 - Unicorn Data Analysis PPT 
 
